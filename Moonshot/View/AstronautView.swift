@@ -72,7 +72,6 @@ struct AstronautView: View {
                                     Text(mission.role)
                                 }
                             }
-                            
                         }
                     }
                 }
